@@ -11,41 +11,35 @@ It's always helpful to keep track of your web URL.  Consider putting that somewh
 This is my public portfolio for Telling Stories with Data at CMU!  Here's where all my cool work will go.  You should probably hire me. 
 
 # About me
-Hi!  I really like data.  And I like visualizations.  So I guess you can say that I like data visualizations!
+Welcome! My name is Sara Clemente. This site is a workproduct from my Spring 2025 Graduate course at Carnegie Mellon University. A few things to know about me: 
+- I am originally from outside of Boston, MA, but I spent six years living and working in Washington D.C. after college. I've lived in Pittsburgh, PA for two years while attending graduate school.
+- I have a dog named Faye, she's the best.
+- I have a background in business (operations management) and spent time as a consultant and at a govtech startup while in D.C.
 
 # What I hope to learn
-All the things - obviously. Maybe I want to make a list of all the things.  If so, I can do so in Markdown like this: 
-
-1. List item #1
-2. List item #2
-3. List item #3
-
-or...
-
-- List item #1
-- List item #2
-- List item #3
+From this course, I hope to learn about:
+1. New mediums / tools that I can use for impactful presentations
+2. Ways to quickly create impactful visualizations
+3. How to provide useful and actionable feedback / critiques to colleagues when collaborating on presentations or other projects in the future
 
 # Portfolio
 
-# Examples
-You can keep this section for stuff from in-class demos or your other work, or remove it. 
-
-## Assignment: [Visualizing overnment Debt](visualizing-government-debt)
+## PLACEHOLDER: Assignment: [Visualizing overnment Debt](visualizing-government-debt)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `visualizing-government-debt.md`.  For links to Markdown files in your repository, you can just include the name of the page without the `.md` extension. 
 
-## Assignment 3&4: [Critique by Design](critique-by-design)
+## PLACEHOLDER: Assignment 3&4: [Critique by Design](critique-by-design)
 For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
 
-## Final project
+## PLACEHOLDER: Another Assignment: [Critique by Design](critique-by-design)
+For this assignment, make sure you set up and link to a new page.  This page is linking to a new Markdown document called `critique-by-design.md`.  
+
+## PLACEHOLDER: Final project
 Here it might be helpful to include a high-level description of your final project. 
 [Part I](final-project-part-one)
 [Part II](final-project-part-two)
 Part III(final-project-part-three)
 
 ---
-## Other stuff you can do (you can remove this section - it's just for your reference.)
-
 ### Changing text
 
 You can change text, like this: 
