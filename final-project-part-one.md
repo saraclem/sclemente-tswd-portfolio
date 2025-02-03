@@ -80,7 +80,7 @@ Text here...
 
 ## References
 - [_Cherry Blossom Watch._](https://cherryblossomwatch.com/stumpy/)
-- [_Japan Travel Guide._]([https://cherryblossomwatch.com/stumpy/](https://www.jal.co.jp/ar/en/guide-to-japan/experiences/cherry-blossom/what-do-cherry-blossoms-represent/index.html#:~:text=The%20sakura's%20meaning%20is%20also,reminder%20that%20life%20is%20fleeting.](https://www.jal.co.jp/ar/en/guide-to-japan/experiences/cherry-blossom/what-do-cherry-blossoms-represent/index.html))
+- [_Japan Travel Guide._](https://www.jal.co.jp/ar/en/guide-to-japan/experiences/cherry-blossom/what-do-cherry-blossoms-represent/index.html)
 - [_National Parks Service._](https://www.nps.gov/featurecontent/cherryblossom/history-of-the-cherry-trees.html)
 - [_National Cherry Blossom Festival._](https://nationalcherryblossomfestival.org/all-events/)
 
