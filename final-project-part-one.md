@@ -69,14 +69,13 @@ Text here...
 
 | Name | URL | Description |
 |------|-----|-------------|
-|      |     |             |
-|      |     |             |
+| DC Forestry     |  https://dcgis.maps.arcgis.com/apps/Nearby/index.html?appid=11cadab2140e475f89ddf5162f2d4108   |   Map of cherry blossom trees located in the District of Columbia, by type          |
+| Historic Cherry Blossom Peak Dates    | https://ourworldindata.org/grapher/date-of-the-peak-cherry-tree-blossom-in-kyoto?facet=none     | Date of peak cherry blossom season in Japan, 812-2024            |
 |      |     |             |
 
 # Method and medium
-> In a few sentences, you should document how you plan on completing your final project. 
-
-Text here...
+> I plan to use shorthand to create the webpage. 
+> I plan to use Tableau and/or datawrapper to create data visualizations. 
 
 ## References
 - [_Cherry Blossom Watch._](https://cherryblossomwatch.com/stumpy/)
@@ -87,4 +86,4 @@ Text here...
 
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+N/A
