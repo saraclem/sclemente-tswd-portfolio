@@ -4,56 +4,37 @@
 > Important note: this template includes major elements of Part I, but the instructions on Canvas are the authoritative source.  Make sure to read through the assignment page and review the rubric to confirm you have everything you need before submitting.  When done, delete these instructions before submitting.
 
 # Outline
-> High-level summary:
-> Cherry blossoms are beautiful and delicate pink flowers that bloom each spring.
+> ### High-level summary:
+> #### Pretty pink flowers can be a powerful reminder about unity, peace, and mortality.
+> Cherry blossom trees are typically 15-30 feet, live approximately 30 years, and are best known for their annual pink and white blooms. Native to Japan, cherry blossoms, called Sakura, are the national flower, and hold many meanings. They symbolize the dichonomty of the beauty of life and mortality--"As the coming of spring promises new life, so the blooming of cherry blossoms brings a sense of vitality and vibrancy. At the same time, their short lifespan is a reminder that life is fleeting" (Guide to Japan, 2025). Cherry blossom rituals in Japan can be traced back to Samurai warriors, and continue today.
 >
-> Native to Japan, cherry blossoms, called Sakura, are the national flower, and hold many meanings.
-> - Life is fleeting: cherry blossoms bloom for a few short weeks each year before they fall to the ground, reminding us to pause for a moment and take in their beauty while we can.
-> - Beauty and morality: "As the coming of spring promises new life, so the blooming of cherry blossoms brings a sense of vitality and vibrancy. At the same time, their short lifespan is a reminder that life is fleeting" (Guide to Japan, 2025).
+> Washington, D.C. is also known for its abundance of cherry blossom trees, originally planted in the early 1900s. The idea to bring cherry blossoms to D.C. was introduced by a world traveler, Mrs. Eliza Ruhamah Scidmore, after her first trip to Japan. After decades of peristance, in 1909, a letter Eliza wrote to first lady Helen Herron Taft led to action. Mrs. Taft had visited Japan and knew of cherry trees and took up the project. After hearing of her plans to plant trees along the avenue of the potomac, the Japanese consul offered a donation of an additional 2,000 trees given in the name of the City of Toyko. In 1912, after an unfortunate mishap with the first shipment of trees, a second shipment of 3,020 from 12 varieties arrived in Seattle from Japan. The trees were planted around the Tidal Basin. This took 7 more years!
+> 
+> Not long after the first cherry blossom trees donated by Japan were planted, relations between the two countries became contentious. Still the trees lived on. Following WWII, Japan continued to donate trees as a symbol of ongoing diplomacy.
 >
-> History of cherry blossom rituals in Japan:
-> - Samurai warriors
-> - Hanami ceremony
-> - WWII kamaikaze pilots
-> - Religious warship
-> - Sacred trees and spirits
+> Today, cherry blossom season is still one of the most significant periods of tourism each year, both in Japan and in Washington D.C. In D.C. they draw over a million visitors each year, and are one of the most distinguishing features of the city. Each spring, the cherry blossom festival offers community events and celebrations around the city. There is a strong local community surrounding cherry blossoms as well. Last year, the removal of one tree, lovingly called 'Stumpy' gave rise to protests and city-wide mourning.
 >
-> Present day festivals in Japan:
-> - Current number of trees
-> - Famous trees to visit
-> - Bloom season
- 
-> Cherry blossoms in Washington D.C.:
-> - Current number of trees / map
-> - Bloom season
+> For those looking for beauty in every day life, or wishing to experience the diplomatic power of flowers, visit the cherry blossoms. Keep in mind some tips! Photographers like to visit the trees with the light of sunrise, when there are (slightly) fewer people around and the city is quiet. Weekends during peak season are really busy! Public transit is recommended over driving. And peak season is getting earlier and earlier each year due to climate change, so keep in mind that preserving the cherry blossoms might be more difficult in years to come. 
 >
-> History of cherry blossoms in Washington D.C.:
-> - Idea was introduced by a world traveler, Mrs. Eliza Ruhamah Scidmore, after her first trip to Japan. Eliza proposed that Japanese cherry trees be planted one day along the reclaimed Potomac waterfront. While her first attempts were ignored, after 24 years, her idea was carried forward by Dr. David Fairchild. In 1908, Fairchild gave cherry saplings to schools in D.C. so that children could plant them in their schoolyard in observance of Arbor Day.
->
-> - Eliza Scidmore continued to persist, writing a letter to first lady Helen Herron Taft in 1909. Mrs. Taft had visited Japan and knew of cherry trees and took up the project. After hearing of her plans to plant trees along the avenue of the potomac, the Japanese consul offered a donation of an additional 2,000 trees given in the name of the City of Toyko.
->
-> - The planting: In 1912, after an unfortunate mishap with the first shipment of trees, a second shipment of 3,020 from 12 varieties arrived in Seattle from Japan. The trees were planted around the Tidal Basin. This took 7 more years!
->
-> - Maybe something here about WWII and the cherry blossoms in DC??
->
-> Modern day in Washington D.C.:
-> - Bloom watch cam
-> - Cherry blossoms bloom each year and draw over a million visitors. They have come to be one of the most distinguishing features of the city. 
-> - The cherry blossom festival offers community events and celebrations around the city.
->
-> Some flower-peeping tips for your visit:
-> - Photographers like to visit the trees with the light of sunrise, when there are (slightly) fewer people around and the city is quiet.
-> - Weekends during peak season are really busy! Public transit is recommended over driving
-> - Planting originated in 1912 as a gift of friendship
->
-> A tribute to stumpy:
-> - A beloved cherry blossom, stumpy, came to fame in recent years.
-> - Stumpy was removed from the basin in 2024, but will always hold a special place in our hearts.
-> - "But it’s not all bad news. Staff from the National Arboretum will take some cuttings from Stumpy and intend to use them to grow new genetic matches (yes, Stumpy clones will be a thing) to help repopulate the Tidal Basin banks once the seawall restoration project is complete. The rest of Stumpy will be turned into mulch to be used on the National Mall" (Cherry Blossom Watch, 2025). 
-
-> A project structure that outlines the major elements of your story.  Your Good Charts text talks about story structure in Chapter 8 - you should describe what you hope to achieve.  Make sure the outline is detailed enough that we can see how you anticipate your story unfolding.  You can incorporate your Story Arc from the in-class exercise along with your user stories and one sentence summary to make the topic even more clear. 
-
-Text here...
+> ### Bulleted outline:
+> Cherry blossoms are trees that bloom each spring
+> Cherry blossom trees are very beautiful
+> Cherry blossoms originated in Japan in the Heian period (794-1185)
+> - They have sacred meaning
+> - They continue to bloom each year in Japan - famous trees include - X, Y, Z
+> Washington D.C. is also known for its cherry blossom trees, originally planted in the early 1900s.
+> - Idea was introduced by world travelor and advocate, Mrs. Eliza Ruhamah Scidmore, after her first trip to Japan
+> - After decades of persistance, the first lady of the United States Helen Herron Taft took up the project in 1909. She was familiar with the trees because she had visited Japan
+> - Trees were donated by the city of Tokyo and planted around the tidal basin in DC over the course of 7 years
+> - Not long after, U.S. and Japan relations grew contentious due to WWII. Still, the trees lived on. Following the war, they continue to serve as a symbol of diplomacy and unity.
+> Today, Cherry Blossom season is still one of the most significant periods of tourism each year, both in Japan and in Washington D.C.
+> - Popular visiting spots in Japan & Washington D.C. include...
+> - Other tips for flower-peeping include...
+> - A tribute to stumpy: a famous cherry blossom in D.C.
+> For those wondering about how to visit cherry blossoms during peak bloom...
+> - Cherry blossoms wait for no one - a powerful reminder to seize the opportunity to seek out beauty, even if it’s inconvenient
+> - Peak season is getting earlier and earlier each year, likely due to climate change
+> - Be wary of planning your trip too far out, you might miss them! Bloomwatch and forecasting may help!Cherry blossoms are beautiful and delicate pink flowers that bloom each spring.
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
@@ -61,11 +42,11 @@ Text here...
 Text here...
 
 # The data
-> A couple of paragraphs that document your data source(s), and an explanation of how you plan on using your data. 
+> I plan to use data to show where cherry blossom trees are located in D.C. and also in Japan
+> I plan to use data to show the historic peak cherry blossom day / season
+> I plan to use data to show the places in D.C. that are common tourist locations (i.e. monuments) in relation to cherry blossoms
 
-Text here...
-
-> A link to the publicly-accessible datasets you plan on using, or a link to a copy of the data you've uploaded to your Github repository, Box account or other publicly-accessible location. Using a datasource that is already publicly accessible is highly encouraged.  If you anticipate using a data source other than something that would be publicly available please talk to me first. 
+> Google Drive link to Datasets: https://drive.google.com/drive/u/2/folders/1u0vidbJgvb_zP4OXIm2h0pvdps3WKv1WA
 
 | Name | URL | Description |
 |------|-----|-------------|
