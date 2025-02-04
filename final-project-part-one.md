@@ -39,8 +39,10 @@
 ## Initial sketches
 >   ### DC Cherry Blossom Tree Location
 <img src="MapofTrees.png" width="600"/>
+
 >   ### Japan Cherry Blossom Peak - Historic
 <img src="cherryblossomhistoricpeak-Japan.png" width="600"/>
+
 >   ### Japan Cherry Blossom Peak - 2000 to 2024
 <img src="cherryblossompeak_Japan_2000_2024.png" width="600"/>
 # The data
