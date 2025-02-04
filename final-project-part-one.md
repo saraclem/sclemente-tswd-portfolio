@@ -46,7 +46,7 @@ Text here...
 > - I plan to use data to show the historic peak cherry blossom day / season
 > - I plan to use data to show the places in D.C. that are common tourist locations (i.e. monuments) in relation to cherry blossoms
 
-> Google Drive link to Datasets: https://drive.google.com/drive/u/2/folders/1u0vidbJgvb_zP4OXIm2h0pvdps3WKv1WA
+> - Google Drive link to Datasets: https://drive.google.com/drive/u/2/folders/1u0vidbJgvb_zP4OXIm2h0pvdps3WKv1WA
 
 | Name | URL | Description |
 |------|-----|-------------|
