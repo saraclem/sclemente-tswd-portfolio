@@ -37,10 +37,12 @@
 >   - Be wary of planning your trip too far out, you might miss them! Bloomwatch and forecasting may help!Cherry blossoms are beautiful and delicate pink flowers that bloom each spring.
 
 ## Initial sketches
-> Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
-
-Text here...
-
+>   ### DC Cherry Blossom Tree Location
+<img src="MapofTrees.png" width="600"/>
+>   ### Japan Cherry Blossom Peak - Historic
+<img src="cherryblossomhistoricpeak-Japan.png" width="600"/>
+>   ### Japan Cherry Blossom Peak - 2000 to 2024
+<img src="cherryblossompeak_Japan_2000_2024.png" width="600"/>
 # The data
 > - I plan to use data to show where cherry blossom trees are located in D.C. and also in Japan
 > - I plan to use data to show the historic peak cherry blossom day / season
