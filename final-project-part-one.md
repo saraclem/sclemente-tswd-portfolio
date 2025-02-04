@@ -17,24 +17,24 @@
 > For those looking for beauty in every day life, or wishing to experience the diplomatic power of flowers, visit the cherry blossoms. Keep in mind some tips! Photographers like to visit the trees with the light of sunrise, when there are (slightly) fewer people around and the city is quiet. Weekends during peak season are really busy! Public transit is recommended over driving. And peak season is getting earlier and earlier each year due to climate change, so keep in mind that preserving the cherry blossoms might be more difficult in years to come. 
 >
 > ### Bulleted outline:
-> Cherry blossoms are trees that bloom each spring
-> Cherry blossom trees are very beautiful
-> Cherry blossoms originated in Japan in the Heian period (794-1185)
-> - They have sacred meaning
-> - They continue to bloom each year in Japan - famous trees include - X, Y, Z
-> Washington D.C. is also known for its cherry blossom trees, originally planted in the early 1900s.
-> - Idea was introduced by world travelor and advocate, Mrs. Eliza Ruhamah Scidmore, after her first trip to Japan
-> - After decades of persistance, the first lady of the United States Helen Herron Taft took up the project in 1909. She was familiar with the trees because she had visited Japan
-> - Trees were donated by the city of Tokyo and planted around the tidal basin in DC over the course of 7 years
-> - Not long after, U.S. and Japan relations grew contentious due to WWII. Still, the trees lived on. Following the war, they continue to serve as a symbol of diplomacy and unity.
-> Today, Cherry Blossom season is still one of the most significant periods of tourism each year, both in Japan and in Washington D.C.
-> - Popular visiting spots in Japan & Washington D.C. include...
-> - Other tips for flower-peeping include...
-> - A tribute to stumpy: a famous cherry blossom in D.C.
-> For those wondering about how to visit cherry blossoms during peak bloom...
-> - Cherry blossoms wait for no one - a powerful reminder to seize the opportunity to seek out beauty, even if it’s inconvenient
-> - Peak season is getting earlier and earlier each year, likely due to climate change
-> - Be wary of planning your trip too far out, you might miss them! Bloomwatch and forecasting may help!Cherry blossoms are beautiful and delicate pink flowers that bloom each spring.
+> - Cherry blossoms are trees that bloom each spring
+> - Cherry blossom trees are very beautiful
+> - Cherry blossoms originated in Japan in the Heian period (794-1185)
+>   - They have sacred meaning
+>   - They continue to bloom each year in Japan - famous trees include - X, Y, Z
+> - Washington D.C. is also known for its cherry blossom trees, originally planted in the early 1900s.
+>   - Idea was introduced by world travelor and advocate, Mrs. Eliza Ruhamah Scidmore, after her first trip to Japan
+>   - After decades of persistance, the first lady of the United States Helen Herron Taft took up the project in 1909. She was familiar with the trees because she had visited Japan
+>   - Trees were donated by the city of Tokyo and planted around the tidal basin in DC over the course of 7 years
+>   - Not long after, U.S. and Japan relations grew contentious due to WWII. Still, the trees lived on. Following the war, they continue to serve as a symbol of diplomacy and unity.
+> - Today, Cherry Blossom season is still one of the most significant periods of tourism each year, both in Japan and in Washington D.C.
+>   - Popular visiting spots in Japan & Washington D.C. include...
+>   - Other tips for flower-peeping include...
+>   - A tribute to stumpy: a famous cherry blossom in D.C.
+> - For those wondering about how to visit cherry blossoms during peak bloom...
+>   - Cherry blossoms wait for no one - a powerful reminder to seize the opportunity to seek out beauty, even if it’s inconvenient
+>   - Peak season is getting earlier and earlier each year, likely due to climate change
+>   - Be wary of planning your trip too far out, you might miss them! Bloomwatch and forecasting may help!Cherry blossoms are beautiful and delicate pink flowers that bloom each spring.
 
 ## Initial sketches
 > Post images of your anticipated data visualizations (sketches are fine). They should mimic aspects of your outline, and include elements of your story.  
