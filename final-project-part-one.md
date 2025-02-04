@@ -42,6 +42,7 @@
 
 >   ### Japan Cherry Blossom Peak - 2000 to 2024
 <img src="cherryblossompeak_Japan_2000_2024.png" width="600"/>
+
 # The data
 > - I plan to use data to show where cherry blossom trees are located in D.C. and also in Japan
 > - I plan to use data to show the historic peak cherry blossom day / season
