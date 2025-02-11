@@ -1,11 +1,8 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Visualization Redesign
-Text here...
 
-_For each step below, you should document your progress as you move forward.  In terms of tone, think of the writeup as though you're keeping journal of your step-by-step process.   You should include a any insights you gained from the critique method, and what it led you to think about when considering the redesign.  You should talk about how you moved next to the sketches, and any insights you gleaned from your user feedback.  Document what you changed based on the user feedback in your redesign.  Finally, talk about what your redesigned data visualization shows, why you selected the data visualization you did, and what you attempted to show or do differently._
-
-_You can include screenshots, sketches or other artifacts with your narrative to help tell the story of how you moved through the process.  Again, make sure to avoid including any personally identifying information about your interviewees (don't list full names, etc.).  While this template serves as a guide, make sure to reference the assignment writeup on Canvas for the official guidance.  This template does not include all guidance mentioned on the assignment page._
+I completed this data visualization redesign exercise as part of a course at Carnegie Mellon University. The exercise involved selecting an existing data visualization (using a site called MakeoverMonday.uk), evaluating the efficacy of that visualization, and then completing my own redesign. The sections below outline my progress in each step of the exercise. 
 
 ## Step one: the visualization
 
@@ -27,7 +24,7 @@ The visualization I selected is titled: [World Happiness Report 2024 Country Ran
 ## Step two: the critique
 After selecting a visualization for this exercise, I submitted a critique. I used a critique method called [Stephen Few's Data Visualization Effectiveness Profile](https://www.perceptualedge.com/articles/visual_business_intelligence/data_visualization_effectiveness_profile.pdf). This method considers factors such as Usefullness, Completeness, Perceptibility, Truthfulness, Intuitiveness, Aesthetics, and Engagement. 
 
-#### critique summary
+#### Critique Summary
 Overall, I thought the visualizations represented useful information and did a good job of visualizing a lot of data in a digestible format. I assume that the charts were tailored for an audience of researchers, scientists, or journalists who may be exploring the World Happiness Report for opportunities to conduct social science research, write articles, or discover insights for more specific audiences. The visualizations seemed to be created as "tools", with a search box and access to a large dataset. 
 
 My main critique is that I struggled to identify insights directly from the chart, and needed to read the article to better understand how the metrics shown were calculated and how data was collected. If I were to redo these visuals, I would consider breaking up the information into more specific insights or stories for the reader. This could improve the intuitiveness, aesthetics, and engagement. Additionally, I would suggest providing more detailed descriptions or titles to differentiate the data sources used for each visualization, especially to avoid confusion for the audience about which data is observed vs. pulled from surveys. 
@@ -87,7 +84,7 @@ _Important Note._ I chose to use a subset of the information shown in the origin
 ## Step four: Test the solution
 After creating an initial draft, I shared the visualization with a group of my peers for feedback. Questions asked and responses collected are summarized below. 
 
-_Questions & Responses:_
+#### Questions & Responses:
 - Can you tell me what you think this is?
   - 	Change in average happiness index by country, year
 - Can you describe to me what this is telling you?
@@ -105,7 +102,7 @@ _Questions & Responses:_
   - Adjust the axis so that there isn't a big gap on the left side of the chart
   - Flip the axis so that the tracking isn’t being covered by the country label
 
-_Reflection & Themes:_ 
+#### Reflection & Themes:
 I found the feedback session very helpful. The thought process that my peers went through when looking at the visual were similar to mine, but they also shared new ideas and perspectives that hadn't occured to me. My main takeaways from the feedback session were: 
 - It's important that the visual is tailored to the audience. If I assume this is a more research or policy-focused audience, then I should focus on statistical significance over aesthetics and engagement for a broader audience.
 - The 'pages' and movement were not useful. The intent of this feature was to show more data (years) without overwhelming the visual, but I knew I needed to find a better way to acheive this.
@@ -139,8 +136,10 @@ I found the feedback session very helpful. The thought process that my peers wen
 _Include and describe your final solution here. It's also a good idea to summarize your thoughts on the process overall. When you're done with the assignment, this page should all the items mentioned in the assignment page on Canvas(a link or screenshot of the original data visualization, documentation explaining your process, a summary of your wireframes and user feedback, your final, redesigned data visualization, etc.)._
 
 ## References
-_List any references you used here._
-
+- World Happiness Report: https://worldhappiness.report/ed/2024/happiness-of-the-younger-the-older-and-those-in-between/#ranking-of-happiness-2021-2023
+- Makeover Monday: https://makeovermonday.co.uk/
+- Chris Gorunson (Telling Stories w/Data Course Materials, Spring 2025)
+- Good Charts Workbook: Tips, Tools, and Exercises for Making Better Data Visualizations By: Scott Berinato
+  
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
-
+- I used ChatGPT-o3 to assist with Tableau features and chart design. Link to chat: https://chatgpt.com/share/67ab6d87-2a24-8010-9885-d9f73e12e127
