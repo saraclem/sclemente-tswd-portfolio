@@ -105,34 +105,11 @@ _Questions & Responses:_
   - Adjust the axis so that there isn't a big gap on the left side of the chart
   - Flip the axis so that the tracking isn’t being covered by the country label
 
-_Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
-
-Questions to ask (modify these for your own interviews): 
-
-- Can you tell me what you think this is?
-
-- Can you describe to me what this is telling you?
-
-- Is there anything you find surprising or confusing?
-
-- Who do you think is the intended audience for this?
-
-- Is there anything you would change or do differently?
-
-_Results:_ 
-
-_Don't identify or share personally identifiable information (PII) about the people you spoke to._
-
-
-| Question | Interview 1 | Interview 2 |
-|----------|-------------|-------------|
-|          |             |             |
-|          |             |             |
-|          |             |             |
-
 _Reflection & Themes:_ 
-
-_What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
+I found the feedback session very helpful. The thought process that my peers went through when looking at the visual were similar to mine, but they also shared new ideas and perspectives that hadn't occured to me. My main takeaways from the feedback session were: 
+- It's important that the visual is tailored to the audience. If I assume this is a more research or policy-focused audience, then I should focus on statistical significance over aesthetics and engagement for a broader audience.
+- The 'pages' and movement were not useful. The intent of this feature was to show more data (years) without overwhelming the visual, but I knew I needed to find a better way to acheive this.
+- Better labeling and formatting. There were a few formatting items in the feedback that would be simple but powerful updates. 
 
 ## Step five: build the solution
 
