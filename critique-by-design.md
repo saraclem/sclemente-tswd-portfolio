@@ -88,12 +88,12 @@ After creating an initial draft, I shared the visualization with a group of my p
 
 #### Questions & Responses:
 - Can you tell me what you think this is?
-  - 	Change in average happiness index by country, year
+  - Change in average happiness index by country, year
 - Can you describe to me what this is telling you?
   - Are the countries getting happier?
 - Is there anything you find surprising or confusing?
   - Assuming higher index = more happiness
-	- Could be EU countries?
+  - Could be EU countries?
 - Who do you think is the intended audience for this?
   - Report viewers
   - Maybe used for policy?
