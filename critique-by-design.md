@@ -10,6 +10,8 @@ The first step in this exercise was to select an existing data visualization for
 
 The visualization I selected is titled: [World Happiness Report 2024 Country Rankings by Life Evaluation in 2021-2023] (https://worldhappiness.report/ed/2024/happiness-of-the-younger-the-older-and-those-in-between/#ranking-of-happiness-2021-2023)
 
+I pulled the source data from [here] (https://data.world/vanessasliva/life-expectancy/workspace/file?filename=WorldHappinessIndex2013-2023.csv)
+
 <div class='tableauPlaceholder' id='viz1739227342498' style='position: relative'><noscript><a href='https:&#47;&#47;worldhappiness.report&#47;'><img alt='World Happiness Report 2024Figure 2.1: Country Rankings by Life Evaluations in 2021-2023 _________NotesTabs 1 &amp; 2: The 95% confidence interval is shown in the grey-shaded area at the end of each life evaluation bar.Tab 2: The sub-bars have no impact on the total score reported for each country. Instead, they are a way of explaining the implications of the model estimated in Table 2.1. The few countries that have empty bars do not have sufficient information for the calculation of portions explained by individual factors. These countries still have their overall scores, though, which are based entirely on survey responses, and are independent of our efforts to explore the underlying support factors of happiness. ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;20&#47;2024Draft&#47;Figure2_1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='2024Draft&#47;Figure2_1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;20&#47;2024Draft&#47;Figure2_1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>                
 <script type='text/javascript'>                    
   var divElement = document.getElementById('viz1739227342498');                    
@@ -137,6 +139,7 @@ Following the feedback session for my first draft, I completed a second draft of
 ## References
 - World Happiness Report: https://worldhappiness.report/ed/2024/happiness-of-the-younger-the-older-and-those-in-between/#ranking-of-happiness-2021-2023
 - Makeover Monday: https://makeovermonday.co.uk/
+- Source Data Used for Visualizations: https://data.world/vanessasliva/life-expectancy/workspace/file?filename=WorldHappinessIndex2013-2023.csv
 - Chris Gorunson (Telling Stories w/Data Course Materials, Spring 2025)
 - Good Charts Workbook: Tips, Tools, and Exercises for Making Better Data Visualizations By: Scott Berinato
   
