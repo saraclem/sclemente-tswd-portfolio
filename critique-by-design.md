@@ -85,6 +85,25 @@ _Important Note._ I chose to use a subset of the information shown in the origin
 </script>
 
 ## Step four: Test the solution
+After creating an initial draft, I shared the visualization with a group of my peers for feedback. Questions asked and responses collected are summarized below. 
+
+_Questions & Responses:_
+- Can you tell me what you think this is?
+  - 	Change in average happiness index by country, year
+- Can you describe to me what this is telling you?
+  - Are the countries getting happier?
+- Is there anything you find surprising or confusing?
+  - Assuming higher index = more happiness
+	- Could be EU countries?
+- Who do you think is the intended audience for this?
+  - Report viewers
+  - Maybe used for policy?
+- Is there anything you would change or do differently?
+  - Highlight a specific country with the biggest change?
+  - Have dots for the beginning of the date range and end of date range, or one per year
+  - Consider removing the pages / animation. Maybe make the year bigger or more obvious that its moving by year.
+  - Adjust the axis so that there isn't a big gap on the left side of the chart
+  - Flip the axis so that the tracking isn’t being covered by the country label
 
 _Before you conduct your interviews, prepare a simple script.  Use this as a guide and as a way to take notes as you go forward. Come up with your own list of questions you want to ask for the selected visualization. Keep the questions broad so you can get the most value out of your feedback. Then, document answers to your questions here._
 
@@ -100,7 +119,7 @@ Questions to ask (modify these for your own interviews):
 
 - Is there anything you would change or do differently?
 
-Results: 
+_Results:_ 
 
 _Don't identify or share personally identifiable information (PII) about the people you spoke to._
 
@@ -111,7 +130,7 @@ _Don't identify or share personally identifiable information (PII) about the peo
 |          |             |             |
 |          |             |             |
 
-Synthesis: 
+_Reflection & Themes:_ 
 
 _What patterns in the feedback emerge?  What did you learn from the feedback?  Based on this feedback, come up with what design changes you think might make the most sense in your final redesign._
 
