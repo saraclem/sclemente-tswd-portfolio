@@ -8,23 +8,23 @@ Text here!
 # User research 
 
 ## Target audience
-> Include your approach to identifying representative individuals, and who you hope to reach with your story. 
-
-Text here!
+- Individuals who haven't visited Washington D.C., or who haven't visited during cherry blossom season
+- Individuals who enjoy travel
 
 ## Interview script
-> List the goals from your research, and the questions you intend to ask. 
+> List the goals from your research, and the questions you intend to ask.
+- I interviewed colleagues in class
 
-Text here!
-
-| Goal | Questions to Ask |
-|------|------------------|
-|      |                  |
-|      |                  |
-|      |                  |
-
-
-Text here!
+#### Goals
+- Assess whether the flow of the story is logical, confusing, and if there are any points that don't fit well or aren't less interesting
+  - _Planned Questions:_
+    - What do you think the call to action for this story is?
+    - What about the story is interesting, boring, exciting?
+    - What confused you? Were there parts that were difficult to understand?
+- Assess the design choices made (color, presentation methods, data visualizations)
+- _Planned Questions:_
+    - Did the design flow well? Were there elements that seemed disjoint from the rest of the design?
+    - How would you describe the design, color choices, presentation method? Was it fun, casual, formal, etc.?
 
 ## Interview findings
 > Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
