@@ -89,7 +89,7 @@ Text here!
 # Moodboards / personas
 Here's a quick 'moodboard' I created in Canva!
 
-<img src="moodboard.png" width="1000"/>
+<img src="moodboard.png" width="800"/>
 
 ## References
 - Goranson, Chris, Course Materials - Telling Stories with Data Spring 2025
