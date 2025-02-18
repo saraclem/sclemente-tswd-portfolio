@@ -43,15 +43,15 @@
 
 # User research 
 
-## Target audience
+#### Target audience
 - Individuals who haven't visited Washington D.C., or who haven't visited during cherry blossom season
-- Individuals who enjoy travel
+- Individuals who enjoy traveling and are looking for recommendations, tips, tricks!
 
-## Interview script
+#### Interview script
 > List the goals from your research, and the questions you intend to ask.
-- I interviewed colleagues in class
+- I shared my draft website with colleagues during class, and sourced their feedback. My main goals for the feedback sessions are listed below, along with insights gained. 
 
-#### Goals
+#### Interview Goals
 - Assess whether the flow of the story is logical, confusing, and if there are any points that don't fit well or aren't less interesting
   - _Planned Questions:_
     - What do you think the call to action for this story is?
@@ -62,7 +62,7 @@
     - Did the design flow well? Were there elements that seemed disjoint from the rest of the design?
     - How would you describe the design, color choices, presentation method? Was it fun, casual, formal, etc.?
 
-## Interview findings
+#### Interview findings
 
 | Interviews on 2/17 (with 3 peers) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
@@ -70,8 +70,7 @@
 |                                |             |             |
 |                                |             |             |
 
-
-# Identified changes for Part III
+#### Identified changes for Part III
 I anticipate incorporating the below changes in the coming week. 
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
