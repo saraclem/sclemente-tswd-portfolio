@@ -91,8 +91,16 @@ Here's a quick 'moodboard' I created in Canva!
 <img src="moodboard.png" width="200"/>
 
 ## References
-_List any references you used here._
+- Goranson, Chris, Course Materials - Telling Stories with Data Spring 2025
+- - [_Cherry Blossom Watch._](https://cherryblossomwatch.com/stumpy/)
+- [_Japan Travel Guide._](https://www.jal.co.jp/ar/en/guide-to-japan/experiences/cherry-blossom/what-do-cherry-blossoms-represent/index.html)
+- [_National Parks Service._](https://www.nps.gov/featurecontent/cherryblossom/history-of-the-cherry-trees.html)
+- [_National Cherry Blossom Festival._](https://nationalcherryblossomfestival.org/all-events/)
+- [Britannica](https://www.britannica.com/biography/Helen-Taft)
+
 
 ## AI acknowledgements
-_If you used AI to help you complete this assignment (within the parameters of the instruction and course guidelines), detail your use of AI for this assignment here._
+- I used ChatGPT 4-o mini to assist with HTML editing for data visualization embeddings. Link to chat: https://chatgpt.com/share/67b4e11d-b1f8-8010-acbb-b016566e3148
+
+
 
