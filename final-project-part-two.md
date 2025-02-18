@@ -1,9 +1,45 @@
 | [home page](https://cmustudent.github.io/tswd-portfolio-templates/) | [data viz examples](dataviz-examples) | [critique by design](critique-by-design) | [final project I](final-project-part-one) | [final project II](final-project-part-two) | [final project III](final-project-part-three) |
 
 # Wireframes / storyboards
-> Using your sketches developed last week, further develop your story outline and relevant components visually through the use of wireframing / storyboards. Using your outline as a guide, include high-fidelity, individual draft data visualizations of the critical elements of your story you want to share with your reader. Note: you can build these elements out directly in Shorthand this week if you wish.  Reminder: this template is intended to help, but it doesn't substitute for reading through the full homework assignment!  The assignment page on Canvas includes many important details for completing Part II of the final project. 
 
-Text here!
+#### Updated storyline / outline
+
+> ### High-level summary:
+> #### Pretty pink flowers can be a powerful reminder about unity, peace, and mortality.
+> Cherry blossom trees are typically 15-30 feet, live approximately 30 years, and are best known for their annual pink and white blooms. Native to Japan, cherry blossoms, called Sakura, are the national flower, and hold many meanings. They symbolize the dichotomy of the beauty of life and mortality--"As the coming of spring promises new life, so the blooming of cherry blossoms brings a sense of vitality and vibrancy. At the same time, their short lifespan is a reminder that life is fleeting" (Guide to Japan, 2025). Cherry blossom rituals in Japan can be traced back to Samurai warriors, and continue today.
+>
+> Washington, D.C. is also known for its abundance of cherry blossom trees, originally planted in the early 1900s.
+> **new** 
+> 
+> The idea to bring cherry blossoms to D.C. was introduced by a world traveler, Mrs. Eliza Ruhamah Scidmore, after a trip to Japan. After decades of peristance, in 1909, a letter Eliza wrote to first lady Helen Herron Taft finally led to action. Mrs. Taft had visited Japan and knew of the beauty of cherry trees, and took up the project. After hearing of her plans to plant trees along the avenue of the potomac, the Japanese consul offered a donation of an additional 2,000 trees given in the name of the City of Toyko. In 1912, after an unfortunate mishap with the first shipment of trees, a second shipment of 3,020 from 12 varieties arrived in Seattle from Japan. The trees were planted around the Tidal Basin. The took 7 years!
+> 
+> Not long after the first cherry blossom trees donated by Japan were planted, relations between the two countries became contentious. Still the trees lived on. Following WWII, Japan continued to donate trees as a symbol of ongoing diplomacy.
+>
+> Today, cherry blossom season is still one of the most significant periods of tourism each year, both in Japan and in Washington D.C. In D.C. they draw over a million visitors each year, and are one of the most distinguishing features of the city. Each spring, the cherry blossom festival offers community events and celebrations around the city. There is a strong local community surrounding cherry blossoms as well. Last year, the removal of one tree, lovingly called 'Stumpy' gave rise to protests and city-wide mourning.
+>
+> For those looking for beauty in every day life, or wishing to experience the diplomatic power of flowers, visit the cherry blossoms. Keep in mind some tips! Photographers like to visit the trees with the light of sunrise, when there are (slightly) fewer people around and the city is quiet. Weekends during peak season are really busy! Public transit is recommended over driving. And peak season is getting earlier and earlier each year due to climate change, so keep in mind that preserving the cherry blossoms might be more difficult in years to come. 
+>
+> ### Bulleted outline:
+> - Cherry blossoms are trees that bloom each spring
+> - Cherry blossom trees are very beautiful
+> - Cherry blossoms originated in Japan in the Heian period (794-1185)
+>   - They have sacred meaning
+>   - They continue to bloom each year in Japan - famous trees include - X, Y, Z
+> - Washington D.C. is also known for its cherry blossom trees, originally planted in the early 1900s.
+>   - Idea was introduced by world travelor and advocate, Mrs. Eliza Ruhamah Scidmore, after her first trip to Japan
+>   - After decades of persistance, the first lady of the United States Helen Herron Taft took up the project in 1909. She was familiar with the trees because she had visited Japan
+>   - Trees were donated by the city of Tokyo and planted around the tidal basin in DC over the course of 7 years
+>   - Not long after, U.S. and Japan relations grew contentious due to WWII. Still, the trees lived on. Following the war, they continue to serve as a symbol of diplomacy and unity.
+> - Today, Cherry Blossom season is still one of the most significant periods of tourism each year, both in Japan and in Washington D.C.
+>   - Popular visiting spots in Japan & Washington D.C. include...
+>   - Other tips for flower-peeping include...
+>   - A tribute to stumpy: a famous cherry blossom in D.C.
+> - For those wondering about how to visit cherry blossoms during peak bloom...
+>   - Cherry blossoms wait for no one - a powerful reminder to seize the opportunity to seek out beauty, even if it’s inconvenient
+>   - Peak season is getting earlier and earlier each year, likely due to climate change
+>   - Be wary of planning your trip too far out, you might miss them! Bloomwatch and forecasting may help!Cherry blossoms are beautiful and delicate pink flowers that bloom each spring.
+
+#### [Link to draft shorthand](https://preview.shorthand.com/Msym2wTfYJiSNrMG)
 
 # User research 
 
@@ -27,21 +63,8 @@ Text here!
     - How would you describe the design, color choices, presentation method? Was it fun, casual, formal, etc.?
 
 ## Interview findings
-> Detail the findings from your interviews.  Do not include PII.  Capture specific insights where possible.
-hat does 2000 seedlings look like / frame of reference
-Maybe compared to a national forest?
 
-
-More data sooner? 
-
-More introduction about a guide for coming to dc
-Tourism stats
-
-
-
-Text here!
-
-| Interviews on 2/17 (with 3 peers) (briefly describe) | Interview 2 | Interview 3 |
+| Interviews on 2/17 (with 3 peers) | Interview 2 | Interview 3 |
 |-------------------------|--------------------------------|-------------|-------------|
 | My peers shared a few insights that were really helpful for me and will inform my next project iteration. They also validated many of the design decisions (e.g. colors, layout of the timeline) I made but was originally unsure about, which helped me to be more confident in these decisions. Some of the constructive feedback included: 1) Data visualizations appear later in the story, but maybe could be included sooner / earlier, 2) It can be difficult to visually quantify some of the numbers used in the story (e.g. how many is 20,000 trees?). The story could be more powerful if this is put into context, 3) The story could be more tailored to tourists if the idea is introduced sooner and more data provided. |             |             |
 |                                |             |             |
@@ -49,15 +72,13 @@ Text here!
 
 
 # Identified changes for Part III
-> Document the changes you plan on implementing next week to address any issues identified.  
-
-Text here!
+I anticipate incorporating the below changes in the coming week. 
 
 | Research synthesis                       | Anticipated changes for Part III                                                |
 |------------------------------------------|---------------------------------------------------------------------------------|
-| Findings or observations from interviews | Describe what, if any changes you anticipate making to address the observation. |
-|                                          |                                                                                 |
-|                                          |                                                                                 |
+| Data visualizations appear later in the story, but maybe could be included sooner / earlier | Introduce tourism earlier in the story, including descriptive stats about the number of tourists each year |
+| It can be difficult to visually quantify some of the numbers used in the story (e.g. how many is 20,000 trees?). The story could be more powerful if this is put into context | Show a visualization of a forest to help put this into perspective visually |
+| The story could be more tailored to tourists if the idea is introduced sooner and more data provided.| Similar to the first item, introduce tourism earlier in the story, and incorporate more detail about tourism throughout, especially with specific travel tips |
 |                                          |                                                                                 |
 | ...add more rows as necessary            |                                                                                 |
 
@@ -66,9 +87,8 @@ Text here!
 Text here!
 
 # Moodboards / personas
-> If you did this optional part, include details here.  Otherwise remove this section
-
-Text here!
+Here's a quick 'moodboard' I created in Canva!
+<img src="moodboard.png" width="200"/>
 
 ## References
 _List any references you used here._
