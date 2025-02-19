@@ -46,11 +46,12 @@
 
 #### Interview findings
 
-| Interviews on 2/17 (with 3 peers) | Interview 2 | Interview 3 |
-|-------------------------|--------------------------------|-------------|-------------|
-| My peers shared a few insights that were really helpful for me and will inform my next project iteration. They also validated many of the design decisions (e.g. colors, layout of the timeline) I made but was originally unsure about, which helped me to be more confident in these decisions. Some of the constructive feedback included: 1) Data visualizations appear later in the story, but maybe could be included sooner / earlier, 2) It can be difficult to visually quantify some of the numbers used in the story (e.g. how many is 20,000 trees?). The story could be more powerful if this is put into context, 3) The story could be more tailored to tourists if the idea is introduced sooner and more data provided. |             |             |
-|                                |             |             |
-|                                |             |             |
+##### Interviews on 2/17 (with 3 peers) 
+- My peers shared a few insights that were really helpful for me and will inform my next project iteration.
+- They also validated many of the design decisions (e.g. colors, layout of the timeline) I made but was originally unsure about, which helped me to be more confident in these decisions. Some of the constructive feedback included:
+  1) Data visualizations appear later in the story, but maybe could be included sooner / earlier,
+  2)  It can be difficult to visually quantify some of the numbers used in the story (e.g. how many is 20,000 trees?). The story could be more powerful if this is put into context,
+  3)  The story could be more tailored to tourists if the idea is introduced sooner and more data provided.
 
 #### Identified changes for Part III
 I anticipate incorporating the below changes in the coming week. 
@@ -61,7 +62,6 @@ I anticipate incorporating the below changes in the coming week.
 | It can be difficult to visually quantify some of the numbers used in the story (e.g. how many is 20,000 trees?). The story could be more powerful if this is put into context | Show a visualization of a forest to help put this into perspective visually |
 | The story could be more tailored to tourists if the idea is introduced sooner and more data provided.| Similar to the first item, introduce tourism earlier in the story, and incorporate more detail about tourism throughout, especially with specific travel tips |
 |                                          |                                                                                 |
-| ...add more rows as necessary            |                                                                                 |
 
 # Moodboards / personas
 Here's a quick 'moodboard' I created in Canva!
