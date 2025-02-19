@@ -2,42 +2,28 @@
 
 # Wireframes / storyboards
 
-#### Updated storyline / outline
+#### Updated storyline / outline 
 
-> ### High-level summary:
+#### [Link to draft shorthand](https://preview.shorthand.com/Msym2wTfYJiSNrMG)
+
 > #### Pretty pink flowers can be a powerful reminder about unity, peace, and mortality.
-> Cherry blossom trees are typically 15-30 feet, live approximately 30 years, and are best known for their annual pink and white blooms. Native to Japan, cherry blossoms, called Sakura, are the national flower, and hold many meanings. They symbolize the dichotomy of the beauty of life and mortality--"As the coming of spring promises new life, so the blooming of cherry blossoms brings a sense of vitality and vibrancy. At the same time, their short lifespan is a reminder that life is fleeting" (Guide to Japan, 2025). Cherry blossom rituals in Japan can be traced back to Samurai warriors, and continue today.
->
-> Washington, D.C. is also known for its abundance of cherry blossom trees, originally planted in the early 1900s.
-> **new** 
-> 
-> The idea to bring cherry blossoms to D.C. was introduced by a world traveler, Mrs. Eliza Ruhamah Scidmore, after a trip to Japan. After decades of peristance, in 1909, a letter Eliza wrote to first lady Helen Herron Taft finally led to action. Mrs. Taft had visited Japan and knew of the beauty of cherry trees, and took up the project. After hearing of her plans to plant trees along the avenue of the potomac, the Japanese consul offered a donation of an additional 2,000 trees given in the name of the City of Toyko. In 1912, after an unfortunate mishap with the first shipment of trees, a second shipment of 3,020 from 12 varieties arrived in Seattle from Japan. The trees were planted around the Tidal Basin. The took 7 years!
-> 
-> Not long after the first cherry blossom trees donated by Japan were planted, relations between the two countries became contentious. Still the trees lived on. Following WWII, Japan continued to donate trees as a symbol of ongoing diplomacy.
->
-> Today, cherry blossom season is still one of the most significant periods of tourism each year, both in Japan and in Washington D.C. In D.C. they draw over a million visitors each year, and are one of the most distinguishing features of the city. Each spring, the cherry blossom festival offers community events and celebrations around the city. There is a strong local community surrounding cherry blossoms as well. Last year, the removal of one tree, lovingly called 'Stumpy' gave rise to protests and city-wide mourning.
->
-> For those looking for beauty in every day life, or wishing to experience the diplomatic power of flowers, visit the cherry blossoms. Keep in mind some tips! Photographers like to visit the trees with the light of sunrise, when there are (slightly) fewer people around and the city is quiet. Weekends during peak season are really busy! Public transit is recommended over driving. And peak season is getting earlier and earlier each year due to climate change, so keep in mind that preserving the cherry blossoms might be more difficult in years to come. 
->
-> ### Bulleted outline:
-> - Cherry blossoms are trees that bloom each spring
-> - Cherry blossom trees are very beautiful
-> - Cherry blossoms originated in Japan in the Heian period (794-1185)
->   - They have sacred meaning
->   - They continue to bloom each year in Japan - famous trees include - X, Y, Z
-> - Washington D.C. is also known for its cherry blossom trees, originally planted in the early 1900s.
->   - Idea was introduced by world travelor and advocate, Mrs. Eliza Ruhamah Scidmore, after her first trip to Japan
->   - After decades of persistance, the first lady of the United States Helen Herron Taft took up the project in 1909. She was familiar with the trees because she had visited Japan
->   - Trees were donated by the city of Tokyo and planted around the tidal basin in DC over the course of 7 years
->   - Not long after, U.S. and Japan relations grew contentious due to WWII. Still, the trees lived on. Following the war, they continue to serve as a symbol of diplomacy and unity.
-> - Today, Cherry Blossom season is still one of the most significant periods of tourism each year, both in Japan and in Washington D.C.
->   - Popular visiting spots in Japan & Washington D.C. include...
->   - Other tips for flower-peeping include...
->   - A tribute to stumpy: a famous cherry blossom in D.C.
-> - For those wondering about how to visit cherry blossoms during peak bloom...
->   - Cherry blossoms wait for no one - a powerful reminder to seize the opportunity to seek out beauty, even if it’s inconvenient
->   - Peak season is getting earlier and earlier each year, likely due to climate change
->   - Be wary of planning your trip too far out, you might miss them! Bloomwatch and forecasting may help!Cherry blossoms are beautiful and delicate pink flowers that bloom each spring.
+- Cherry blossom trees are typically 15-30 feet, live approximately 30 years, and are best known for their annual pink and white blooms. Native to Japan, cherry blossoms, known as Sakura, are the national flower.
+- Sakura symbolize the contrast between the beauty of life and the inevitability of mortality. Cherry blossoms begin to bloom in late March, as the spring time nears and promises new life. When the buds are finally in full bloom, they bring vibrant energy and remind us of the beauty in nature. The blooms, however, only last about 1-2 weeks, leaving us with a powerful reminder about the fleeting nature of life.
+- The allure of cherry blossom flowers is undeniable. When the trees are in bloom, they captivate visitors from near and far, inviting them to take a moment from their daily lives to admire their natural beauty. Today, one of the most popular places to marvel at the beauty of cherry blossom trees is amongst the ~38,000 trees planted in Washington, D.C. According to the U.S. Environmental Protection Agency's website, the annual Cherry Blossom Festival attracts approximately 1.5 million visitors each year.
+- Beyond their beauty and symbolism, cherry blossoms have come to serve as a token of diplomacy. Beginning in the late 19th century, cherry blossoms have served as an ongoing symbol of friendship between Japan and the United States. The City of Tokyo donated the first set of trees to be planted in Washington D.C. The reciprocity of this friendship continued throughout the 20th century, and after World War II.
+- The idea to bring cherry blossoms to D.C. was introduced by a world traveler, Mrs. Eliza Ruhamah Scidmore, after a trip to Japan.
+  - After decades of persistence, a letter Eliza wrote to first lady Helen Herron Taft finally led to action. After hearing of her plans to plant trees along the avenue of the Potomac River, the river that flows through Washington D.C., the Japanese consul became involved in the project.
+  - In coordination with Mayor of the city of Tokyo, the consul offered a donation of an additional 2,000 trees. In 1912, after an unfortunate mishap with the first shipment of trees, and additional coordination between the two cities, a second shipment of 3,020 trees from 12 varieties arrived in Seattle from Japan.
+  - Trees were planted around the city, concentrated around the Tidal Basin. This process took over 7 years! The original source of Washington D.C.'s tree seedlings, a grove along the Arakawa river outside of Tokyo, was lost during WWII. Japan asked for help to restore the grove.
+  - The U.S. National Park Service shipped seedlings from descendants of the original trees back to Tokyo.
+
+- For those looking for beauty in every day life, or wishing to experience the diplomatic power of flowers, visit the cherry blossoms when they are in full bloom. Today, cherry blossom season is still one of the most significant periods of tourism each year, both in Japan and in Washington D.C.
+- In Washington D.C., the cherry blossom festival offers community events and celebrations around the city. Public transit is recommended over driving. Seek spots to see the cherry blossoms near a national monument during your tour of D.C. One great spot to visit is the National Arboretum.
+- In Japan, the trees are located across the entire country. Depending where you visit, the peak will be at a different time in the season.
+- Some more general tips and information, regardless of where you go:
+  - Peak season is getting earlier and earlier each year due to climate change, so keep in mind that preserving the cherry blossoms might be more difficult in years to come. There are also concerns over flooding that could impact the trees' longevity.
+  - Photographers like to visit the trees with the light of sunrise, when there are (slightly) fewer people around
+- Be wary of planning your trip too far out, you might miss them! Bloomwatch and forecasting may help! 
 
 #### [Link to draft shorthand](https://preview.shorthand.com/Msym2wTfYJiSNrMG)
 
