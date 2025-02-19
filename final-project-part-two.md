@@ -2,7 +2,7 @@
 
 # Wireframes / storyboards
 
-#### Updated storyline / outline 
+### Updated storyline / outline 
 
 #### [Link to draft shorthand](https://preview.shorthand.com/Msym2wTfYJiSNrMG)
 
@@ -24,8 +24,6 @@
   - Peak season is getting earlier and earlier each year due to climate change, so keep in mind that preserving the cherry blossoms might be more difficult in years to come. There are also concerns over flooding that could impact the trees' longevity.
   - Photographers like to visit the trees with the light of sunrise, when there are (slightly) fewer people around
 - Be wary of planning your trip too far out, you might miss them! Bloomwatch and forecasting may help! 
-
-#### [Link to draft shorthand](https://preview.shorthand.com/Msym2wTfYJiSNrMG)
 
 # User research 
 
