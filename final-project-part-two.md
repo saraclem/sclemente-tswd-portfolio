@@ -32,8 +32,7 @@
 - Individuals who enjoy traveling and are looking for recommendations, tips, tricks!
 
 #### Interview script
-> List the goals from your research, and the questions you intend to ask.
-- I shared my draft website with colleagues during class, and sourced their feedback. My main goals for the feedback sessions are listed below, along with insights gained. 
+> I shared my draft website with colleagues during class, and sourced their feedback. My main goals for the feedback sessions are listed below, along with insights gained. 
 
 #### Interview Goals
 - Assess whether the flow of the story is logical, confusing, and if there are any points that don't fit well or aren't less interesting
