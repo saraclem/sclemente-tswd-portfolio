@@ -31,7 +31,6 @@
 - Individuals who haven't visited Washington D.C., or who haven't visited during cherry blossom season
 - Individuals who enjoy traveling and are looking for recommendations, tips, tricks!
 
-#### Interview script
 > I shared my draft website with colleagues during class, and sourced their feedback. My main goals for the feedback sessions are listed below, along with insights gained. 
 
 #### Interview Goals
