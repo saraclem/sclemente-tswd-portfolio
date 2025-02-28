@@ -30,7 +30,7 @@ I used ChatGPT 4-o mini to assist with HTML editing for data visualization embed
 I also used ChatGPT for sentence improvement (i.e. grammar, rewording). [Link to chat](https://chatgpt.com/share/67c203bb-15f0-8010-ab0d-c6cfb8438a13)
 
 # Final thoughts
-_A few other thoughts to share..._
+> _A few other thoughts to share..._
 
 - If I had more time, I would have liked to try another tool or tools for the maps. I found Tableau a bit constraining, and spent a lot of time waiting for the datasets to load. In hindsight, I might have pivoted to a new tooler sooner and had more luck!
 - If I had more time, I would have built out a section about the impact of climate change on the Cherry Blossoms. I read a lot about the impact of floods and warmer spring temperatures on the trees, which could have added another interesting angle to the story and made the story feel more complete.
