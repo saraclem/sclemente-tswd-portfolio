@@ -1,7 +1,5 @@
 | [home page](https://saraclem.github.io/sclemente-tswd-portfolio/) | [data viz examples](https://saraclem.github.io/sclemente-tswd-portfolio/dataviz-examples) | [critique by design](https://saraclem.github.io/sclemente-tswd-portfolio/critique-by-design) | [final project I](https://saraclem.github.io/sclemente-tswd-portfolio/final-project-part-one) | [final project II](https://saraclem.github.io/sclemente-tswd-portfolio/final-project-part-two) | [final project III](https://saraclem.github.io/sclemente-tswd-portfolio/final-project-part-three) |
 
-
-
 # Visualizing Government Debt
 
 
